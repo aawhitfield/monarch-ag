@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251059549513",
+    "project_id": "monarch-ag",
+    "storage_bucket": "monarch-ag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251059549513:android:3d7203f5bdd9dafda51698",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyACYGxF_02zwXnev5BGDOboBaAMiz1OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
